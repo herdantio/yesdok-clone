@@ -8,6 +8,16 @@ const routes = [
     path: '/',
     name: 'Home',
     component: () => import('@/atomic/pages/Home')
+  },
+  {
+    path: '/article/:id',
+    name: 'Article',
+    component: () => import('@/atomic/pages/Article')
+  },
+  {
+    path: '/:id',
+    name: 'Category',
+    component: () => import('@/atomic/pages/Article')
   }
 ]
 

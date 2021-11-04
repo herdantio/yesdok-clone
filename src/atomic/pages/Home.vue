@@ -1,15 +1,23 @@
 <template>
   <div>
-    <nav-bar/>
-    <h1>Home Page</h1>
+    <div class="d-flex flex-column align-items-center">
+      <article-card v-for="article in articleList" :key="article.id" :article="article"/>
+    </div>
   </div>
 </template>
 
 <script>
+import {mapState} from "vuex";
+
 export default {
   name: "Home",
   components: {
-    NavBar: () => import('@/atomic/organisms/NavBar')
+    ArticleCard: () => import('@/atomic/molecules/ArticleCard')
+  },
+  computed: {
+    ...mapState('article', {
+      articleList: state => state.articleList
+    })
   }
 }
 </script>

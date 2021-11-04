@@ -1,12 +1,12 @@
 <template>
-  <div>
-    <h1>{{this.$route.params.id}}</h1>
+  <div class="d-flex justify-content-center">
+
   </div>
 </template>
 
 <script>
 export default {
-  name: "Article"
+  name: "ContainerCenter"
 }
 </script>
 
