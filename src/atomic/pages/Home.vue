@@ -1,9 +1,9 @@
 <template>
-  <div>
-    <div class="d-flex flex-column align-items-center">
-      <article-card v-for="article in articleList" :key="article.id" :article="article"/>
-    </div>
-  </div>
+  <b-container>
+    <b-row align-h="center">
+       <article-card v-for="article in articleList" :key="article.id" :article="article"/>
+    </b-row>
+  </b-container>
 </template>
 
 <script>
