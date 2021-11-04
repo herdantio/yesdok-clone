@@ -151,7 +151,8 @@ export default {
             },
         ]
     },
-    getters: {},
+    getters: {
+    },
     mutations: {},
     actions: {}
 }
