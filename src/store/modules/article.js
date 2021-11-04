@@ -55,104 +55,122 @@ export default {
             },
             {
                 id: '3',
-                title: 'Benarkah Menyusui Menurunkan Kadar Gular Darah?',
-                image: 'article1.png',
+                title: 'Pengobatan Rumahan untuk Meringankan Gejala Bronkitis',
+                image: 'article3.png',
                 category: 'SEHAT A-Z',
-                body: `<p>Sekitar 9 persen wanita mengembangkan resistensi terhadap insulin selama kehamilan, yang disebut diabetes gestasional. Wanita yang menderita diabetes gestasional memiliki risiko lebih tinggi terkena diabetes tipe 2 dalam hidup. Tetapi Anda akan senang mengetahui bahwa ada satu hal yang dapat menurunkan risiko ini , yakni menyusui.</p>
+                body: `<p>Bronkitis adalah peradangan yang terjadi lapisan saluran bronkial atau yang dikenal sebagai bronkus. Bronkus ini berfungsi untuk menghubungkan paru-paru.&nbsp;</p>
 
-<p>Wanita yang menderita diabetes dianjurkan untuk menyusui bayinya karena menyusui dapat membantu menurunkan kadar glukosa darah.</p>
+<p>Penderita bronkitis mengalami kesulitan bernapas yang disebabkan oleh berkurangnya kapasitas untuk membawa udara melalui bronkus ke paru-paru. Mereka juga cenderung memiliki lendir atau dahak di saluran udara mereka.</p>
 
-<p>Menyusui adalah cara terbaik untuk merawat bayi dan menciptakan ikatan ibu-anak. Menyusui mengurangi kemungkinan mengembangkan berbagai kondisi kesehatan pada wanita termasuk osteoporosis, rheumatoid arthritis, penyakit jantung, diabetes tipe 2, penurunan berat badan pasca-kehamilan, kanker payudara, kanker rahim dan kanker ovarium.</p>
+<p>Anda mungkin dapat mengobati bronkitis akut tanpa intervensi medis. Dalam berbagai penyebab, gejala mampu membaik dalam waktu dua minggu.</p>
 
-<p>Bukan hanya keuntungan fisik, menyusui juga berperan penting dalam mengelola kecemasan pasca melahirkan. Menyusui melepaskan hormon bahagia yang disebut oksitosin, yang meningkatkan suasana hati ibu dan menurunkan risiko depresi pascamelahirkan pada ibu baru.</p>
+<p>Namun, penting untuk mengobati gejala pertama pada tanda pertama untuk memastikan penderita bronkitis cepat pulih. Jika bronkitis kian memburuk dan disertai dengan gejala sesak napas, Anda perlu segera mencari bantuan medis.</p>
 
-<p>Menyusui adalah salah satu latihan nyata bagi ibu baru. Kebiasaan ini juga membantu menekan kembalinya periode (haid) dan menenangkan. Berkurangnya stres juga dapat meningkatkan kontrol kadar gula darah dan kualitas hidup wanita setelah melahirkan.</p><div class="col-md-8 col-sm-12 col-xs-12" style="margin:0px auto;"><a target="_blank" href="/id/promo/article/"><img src="https://www.yesdok.com/img/YD_store/Artboard%2022.png" width="100%" /></a></div>
+<p><strong>Pengobatan rumahan&nbsp;</strong></p>
 
-<p>Saat bayi mulai menyusu terlebih dahulu, beberapa wanita dengan diabetes mungkin mengalami gula darah rendah. Jadi, sebaiknya simpan glukosa di dekat Anda saat menyusui bayi.</p>
+<p>Berikut adalah penanganan penyakit bronkitis di rumah yang efektif meringankan gejala bronkitis akut</p>
 
-<p>Menyusui dengan diabetes dapat menjadi tantangan karena wanita dapat mengembangkan peradangan di payudara mereka, kondisi ini disebut mastitis. Ibu harus memastikan untuk memberi makan bayi mereka dari kedua payudara untuk menghindari berkembangnya peradangan payudara.</p>
+<p><strong>Bawang putih&nbsp;</strong></p>
 
-<p>Para wanita ini juga harus terus memeriksa kadar gula darah mereka. Peningkatan gula darah dapat mempengaruhi kualitas susu. Hal ini juga dapat mempengaruhi kemampuan seseorang untuk menghasilkan susu.</p>
+<p>Bawang putih dikenal dengan khasiatnya penyembuhannya yang tak terhitung jumlahnya.&nbsp;</p>
 
-<p>Untuk neonatus, menyusui memberi mereka perlindungan terhadap kekurangan gizi dan kelebihan gizi selama masa kanak-kanak. Hal ini juga dapat mengurangi risiko obesitas, hipertensi, diabetes dan penyakit kardiovaskular di kemudian hari.</p>
+<p>Pada hasil studi tahun 2016 menunjukkan bahwa bawang putih efektif menghambat pertumbuhan virus bronkitis yang menular.</p>
 
-<p>Menyusui membantu menurunkan kadar gula darah dengan memanfaatkan glukosa dari darah untuk memproduksi ASI. Menyusui menurunkan kadar gula darah dengan membakar kalori ekstra, yang meningkatkan sensitivitas insulin.</p>
+<p>Temuan ini menunjukkan bawang putih bisa digunakan sebagai obat alami untuk penyakit bronkitis.</p>
 
-<p>Cara untuk memudahkan pengalaman menyusui pada wanita dengan diabetes:<br />
-- Makan camilan sebelum atau saat menyusui<br />
-- Pantau kadar gula darah minimal sekali sehari<br />
-- Simpan camilan darurat, seperti sebungkus biskuit atau buah saat menyusui<br />
-- Hindari stres dan periksa peradangan pada payudara<br />
-- Tetap terhidrasi</p>`
+<p>Anda perlu waspada dalam mengonsumsi bawang putih jika Anda memiliki gangguan pendarahaan.&nbsp;</p>
+
+<p><strong>Minum cairan hangat</strong></p>
+
+<p>Air hangat, teh atau minuman panas lainnya bisa membantu mengencerkan lendir dan membuat seseorang mengeluarkan batuk lebih mudah.</p>
+
+<p>Teh jahe, misalnya, sifat anti-inflamasi yang dimiliki oleh teh jahe dapat membantu gejala bronkitis.</p>
+
+<p><strong>Madu</strong></p>
+
+<p>Madu sering digunakan sebagai obat alami untuk batuk dan dikenal dengan sifat antivirus dan antibakteri.</p>
+
+<p>Penelitian mengenai efektivitas madu untuk infeksi saluran pernapasan menunjukkan bahwa madu termasuk pengobatan rumahan yang efektif.</p>
+
+<p><strong>Uap</strong></p>
+
+<p>Uap membantu memecah lendir sehingga Anda dapat mengeluarkan dengan mudah.&nbsp;</p>
+
+<p>Salah satu pilihan efektif yaitu mengisi mangkuk menggunakan air panas dan menutupi bagian atas dengan handuk. Anda dapat menghirup uapnya.</p>`
             },
             {
                 id: '4',
-                title: 'Benarkah Menyusui Menurunkan Kadar Gular Darah?',
-                image: 'article1.png',
-                category: 'SEHAT A-Z',
-                body: `<p>Sekitar 9 persen wanita mengembangkan resistensi terhadap insulin selama kehamilan, yang disebut diabetes gestasional. Wanita yang menderita diabetes gestasional memiliki risiko lebih tinggi terkena diabetes tipe 2 dalam hidup. Tetapi Anda akan senang mengetahui bahwa ada satu hal yang dapat menurunkan risiko ini , yakni menyusui.</p>
+                title: 'Indonesia Ditetapkan Sebagai Negara dengan Penularan COVID-19 Rendah',
+                image: 'article4.png',
+                category: 'TERKINI',
+                body: `<p>Pusat Pengendalian dan Pencegahan Penyakit Amerika Serikat (CDC) menetapkan Indonesia sebagai negara dengan tingkat penularan COVID-19 rendah atau Level 1.</p>
 
-<p>Wanita yang menderita diabetes dianjurkan untuk menyusui bayinya karena menyusui dapat membantu menurunkan kadar glukosa darah.</p>
+<p>Meski demikian, Juru Bicara Vaksinasi Kementerian Kesehatan dr. Siti Nadia Tarmizi mengatakan masyarakat diminta tidak terlena dengan penetapan status tersebut. Ancaman gelombang ketiga dan varian baru virus corona masih terus mengintai.</p>
 
-<p>Menyusui adalah cara terbaik untuk merawat bayi dan menciptakan ikatan ibu-anak. Menyusui mengurangi kemungkinan mengembangkan berbagai kondisi kesehatan pada wanita termasuk osteoporosis, rheumatoid arthritis, penyakit jantung, diabetes tipe 2, penurunan berat badan pasca-kehamilan, kanker payudara, kanker rahim dan kanker ovarium.</p>
+<p>Sejumlah negara tetangga seperti Singapura, Malaysia, Brunei, dan Thailand masih berada dalam tingkat penularan COVID-19 tinggi atau Level 4.</p>
 
-<p>Bukan hanya keuntungan fisik, menyusui juga berperan penting dalam mengelola kecemasan pasca melahirkan. Menyusui melepaskan hormon bahagia yang disebut oksitosin, yang meningkatkan suasana hati ibu dan menurunkan risiko depresi pascamelahirkan pada ibu baru.</p>
+<p>&#39;&#39;Masyarakat, baik yang berada di Indonesia maupun yang hendak masuk ke Indonesia, wajib tetap disiplin protokol kesehatan dan mematuhi setiap kebijakan Pemerintah. Tidak ada toleransi bagi pihak yang melanggar ketentuan,&#39;&#39; katanya.</p>
 
-<p>Menyusui adalah salah satu latihan nyata bagi ibu baru. Kebiasaan ini juga membantu menekan kembalinya periode (haid) dan menenangkan. Berkurangnya stres juga dapat meningkatkan kontrol kadar gula darah dan kualitas hidup wanita setelah melahirkan.</p><div class="col-md-8 col-sm-12 col-xs-12" style="margin:0px auto;"><a target="_blank" href="/id/promo/article/"><img src="https://www.yesdok.com/img/YD_store/Artboard%2022.png" width="100%" /></a></div>
+<p>Dengan ditetapkannya status tersebut, pemerintah terus meningkatkan kualitas penanganan COVID-19 melalui deteksi dengan meningkatkan tes epidemiologi, meningkatkan rasio kontak erat yang dilacak, dan surveilans genomik.</p>
 
-<p>Saat bayi mulai menyusu terlebih dahulu, beberapa wanita dengan diabetes mungkin mengalami gula darah rendah. Jadi, sebaiknya simpan glukosa di dekat Anda saat menyusui bayi.</p>
+<p>Tak hanya itu, pemerintah juga melakukan penguatan dari sisi terapeutik dengan mengonversi tempat tidur di rumah sakit sebanyak 30-40% dari total kapasitas RS &amp; pemenuhan suplai oksigen, alat kesehatan &amp; SDM, mengerahkan tenaga kesehatan cadangan, pengetatan syarat masuk RS, dan pemanfaatan isolasi terpusat.</p>
 
-<p>Menyusui dengan diabetes dapat menjadi tantangan karena wanita dapat mengembangkan peradangan di payudara mereka, kondisi ini disebut mastitis. Ibu harus memastikan untuk memberi makan bayi mereka dari kedua payudara untuk menghindari berkembangnya peradangan payudara.</p>
+<p>Terkait vaksinasi, pemerintah mengalokasikan vaksin sebanyak 50% di daerah dengan kasus dan mobilitas tinggi, memperbanyak sentra vaksinasi, memberlakukan syarat kartu vaksin, dan mempercepat vaksinasi.</p>
 
-<p>Para wanita ini juga harus terus memeriksa kadar gula darah mereka. Peningkatan gula darah dapat mempengaruhi kualitas susu. Hal ini juga dapat mempengaruhi kemampuan seseorang untuk menghasilkan susu.</p>
-
-<p>Untuk neonatus, menyusui memberi mereka perlindungan terhadap kekurangan gizi dan kelebihan gizi selama masa kanak-kanak. Hal ini juga dapat mengurangi risiko obesitas, hipertensi, diabetes dan penyakit kardiovaskular di kemudian hari.</p>
-
-<p>Menyusui membantu menurunkan kadar gula darah dengan memanfaatkan glukosa dari darah untuk memproduksi ASI. Menyusui menurunkan kadar gula darah dengan membakar kalori ekstra, yang meningkatkan sensitivitas insulin.</p>
-
-<p>Cara untuk memudahkan pengalaman menyusui pada wanita dengan diabetes:<br />
-- Makan camilan sebelum atau saat menyusui<br />
-- Pantau kadar gula darah minimal sekali sehari<br />
-- Simpan camilan darurat, seperti sebungkus biskuit atau buah saat menyusui<br />
-- Hindari stres dan periksa peradangan pada payudara<br />
-- Tetap terhidrasi</p>`
+<p>Pemerintah juga memperkuat implementasi PPKM Level 1-4 dan memanfaatkan teknologi digital dalam implementasi protokol kesehatan.</p>`
             },
             {
                 id: '5',
-                title: 'Benarkah Menyusui Menurunkan Kadar Gular Darah?',
-                image: 'article1.png',
-                category: 'SEHAT A-Z',
-                body: `<p>Sekitar 9 persen wanita mengembangkan resistensi terhadap insulin selama kehamilan, yang disebut diabetes gestasional. Wanita yang menderita diabetes gestasional memiliki risiko lebih tinggi terkena diabetes tipe 2 dalam hidup. Tetapi Anda akan senang mengetahui bahwa ada satu hal yang dapat menurunkan risiko ini , yakni menyusui.</p>
+                title: 'Kenali Penyebab Jerawat di Sekitar Mulut dan Pencegahannya',
+                image: 'article5.png',
+                category: 'GAYA HIDUP',
+                body: `<p>Jerawat cenderung muncul di area tubuh tertentu atau bagian wajah tertentu. Beberapa orang mungkin mengalami jerawat yang terus berulang timbul di sekitar mulut.</p>
 
-<p>Wanita yang menderita diabetes dianjurkan untuk menyusui bayinya karena menyusui dapat membantu menurunkan kadar glukosa darah.</p>
+<p>Produk kosmetik atau produk wajah lainnya seperti pasta gigi, lip balm atau krim cukur, dapat menjadi penyebab timbulnya jerawat.</p>
 
-<p>Menyusui adalah cara terbaik untuk merawat bayi dan menciptakan ikatan ibu-anak. Menyusui mengurangi kemungkinan mengembangkan berbagai kondisi kesehatan pada wanita termasuk osteoporosis, rheumatoid arthritis, penyakit jantung, diabetes tipe 2, penurunan berat badan pasca-kehamilan, kanker payudara, kanker rahim dan kanker ovarium.</p>
+<p>Jika jerawat muncul di sekitar mulut, pengobatan sederhana seperti salep, krim dan obat resep dapat membantu meredakan gejala.</p>
 
-<p>Bukan hanya keuntungan fisik, menyusui juga berperan penting dalam mengelola kecemasan pasca melahirkan. Menyusui melepaskan hormon bahagia yang disebut oksitosin, yang meningkatkan suasana hati ibu dan menurunkan risiko depresi pascamelahirkan pada ibu baru.</p>
+<p><strong>Penyebab</strong></p>
 
-<p>Menyusui adalah salah satu latihan nyata bagi ibu baru. Kebiasaan ini juga membantu menekan kembalinya periode (haid) dan menenangkan. Berkurangnya stres juga dapat meningkatkan kontrol kadar gula darah dan kualitas hidup wanita setelah melahirkan.</p><div class="col-md-8 col-sm-12 col-xs-12" style="margin:0px auto;"><a target="_blank" href="/id/promo/article/"><img src="https://www.yesdok.com/img/YD_store/Artboard%2022.png" width="100%" /></a></div>
+<p>Area paling umum untuk melihat jerawat yaitu di sekitar wajah, di sepanjang area berbentuk T dari dahi dan memanjang dari hidung hingga dagu.</p>
 
-<p>Saat bayi mulai menyusu terlebih dahulu, beberapa wanita dengan diabetes mungkin mengalami gula darah rendah. Jadi, sebaiknya simpan glukosa di dekat Anda saat menyusui bayi.</p>
+<p>Hal ini disebabkan karena konsentrasi sebaceous atau kelenjar yang mengeluarkan sebum lebih besar di dahi dan dagu.</p>
 
-<p>Menyusui dengan diabetes dapat menjadi tantangan karena wanita dapat mengembangkan peradangan di payudara mereka, kondisi ini disebut mastitis. Ibu harus memastikan untuk memberi makan bayi mereka dari kedua payudara untuk menghindari berkembangnya peradangan payudara.</p>
+<p>Jerawat mungkin lebih cenderung muncul di dekat mulut jika kulit di area tersebut teriritasi.</p>
 
-<p>Para wanita ini juga harus terus memeriksa kadar gula darah mereka. Peningkatan gula darah dapat mempengaruhi kualitas susu. Hal ini juga dapat mempengaruhi kemampuan seseorang untuk menghasilkan susu.</p>
+<p>Beberapa penyebab potensi jerawat di sekitar area mulut termasuk</p>
 
-<p>Untuk neonatus, menyusui memberi mereka perlindungan terhadap kekurangan gizi dan kelebihan gizi selama masa kanak-kanak. Hal ini juga dapat mengurangi risiko obesitas, hipertensi, diabetes dan penyakit kardiovaskular di kemudian hari.</p>
+<ul>
+\t<li>Kulit berminyak</li>
+\t<li>Menyentuh wajah</li>
+\t<li>Sisa makanan atau minuman</li>
+\t<li>Keringat</li>
+\t<li>Perubahan hormon</li>
+</ul>
 
-<p>Menyusui membantu menurunkan kadar gula darah dengan memanfaatkan glukosa dari darah untuk memproduksi ASI. Menyusui menurunkan kadar gula darah dengan membakar kalori ekstra, yang meningkatkan sensitivitas insulin.</p>
+<p>Bakteri yang terdapat di tangan juga dapat berpindah ke kulit dari benda sekitar yang Anda sentuh.&nbsp;</p>
 
-<p>Cara untuk memudahkan pengalaman menyusui pada wanita dengan diabetes:<br />
-- Makan camilan sebelum atau saat menyusui<br />
-- Pantau kadar gula darah minimal sekali sehari<br />
-- Simpan camilan darurat, seperti sebungkus biskuit atau buah saat menyusui<br />
-- Hindari stres dan periksa peradangan pada payudara<br />
-- Tetap terhidrasi</p>`
+<p>Area wajah yang berbeda rentan terhadap bakteri yang berpindah dari ponsel atau benda lainnya.</p>
+
+<p><strong>Pencegahan</strong></p>
+
+<p><strong>Membersihkan kulit</strong></p>
+
+<p>Anda dapat mencuci muka dua kali sehari terutama setelah melakukan aktivitas yang menimbulkan banyak keringat dan selalu biasakan untuk bersihkan make-up sebelum tidur.</p>
+
+<p><strong>Usap mulut setelah makan</strong></p>
+
+<p>Partikel makanan kecil di sekitar area mulut juga bisa menyumbat pori-pori. Usap area sekitar mulut setelah makan dan cobalah untuk menghindari makanan berminyak.&nbsp;</p>
+
+<p><strong>Hindari penggunaan produk kosmetik tertentu</strong></p>
+
+<p>Beberapa kosmetik seperti foundation, yang dapat menyebabkan pori-pori tersumbat.</p>
+
+<p>Produk skin care non-comedogenic umumnya tidak mengandung minyak dan meminimalkan tersumbatnya pori-pori.</p>`
             },
         ]
     },
-    getters: {
-    },
+    getters: {},
     mutations: {},
     actions: {}
 }
