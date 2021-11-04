@@ -170,7 +170,11 @@ export default {
             },
         ]
     },
-    getters: {},
+    getters: {
+        getArticleCategory(state){
+            return [...new Set(state.articleList.map(article => article.category))]
+        }
+    },
     mutations: {},
     actions: {}
 }

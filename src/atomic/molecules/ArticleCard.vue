@@ -22,6 +22,7 @@ export default {
   methods: {
     toRoute(){
       this.$router.push({name: 'Article', params: {id: this.article.id}})
+      window.scrollTo(0,0)
     }
   }
 }
